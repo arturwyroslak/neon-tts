@@ -84,7 +84,7 @@ languages = {
                     "un temporale.",
     },
     "pl": {
-        "model": "neongeckocom/tts-vits-mai-pl@v0.6",
+        "model": "NeonBohdan/tts-glow-mai-pl",
         "language": {
             "name": "Polish",
             "code": "pl-PO",
